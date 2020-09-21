@@ -1,0 +1,4 @@
+#Sun Sep 20 02:58:52 GMT-04:00 2020
+base.0=D\:\\Archivos\\Personal\\Proyectos\\AzureStorage\\AwesomeProject\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
